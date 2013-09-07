@@ -30,3 +30,20 @@ png:
 	inkscape ${SHAARLI}			-e ${SHAARLI:.svg=.png}
 	inkscape ${TWITTER}			-e ${TWITTER:.svg=.png}
 	inkscape ${VIADEO}			-e ${VIADEO:.svg=.png}
+
+clean:
+	rm -f \
+	${CODEIVATE:.svg=.png} \
+	${CODERBITS:.svg=.png} \
+	${COMMENTS:.svg=.png} \
+	${FACEBOOK:.svg=.png} \
+	${GITHUB:.svg=.png} \
+	${GSCHOLAR:.svg=.png} \
+	${GPLUS:.svg=.png} \
+	${LINKEDIN:.svg=.png} \
+	${MENDELEY:.svg=.png} \
+	${RESEARCHGATE:.svg=.png} \
+	${RSS:.svg=.png} \
+	${SHAARLI:.svg=.png} \
+	${TWITTER:.svg=.png} \
+	${VIADEO:.svg=.png}
