@@ -1,7 +1,7 @@
 myIcons
 =======
 
-Icons in SVG format for following social websites
+Minimalist icons in SVG format for following social websites
 
 * Codeivate
 * Coderbits
