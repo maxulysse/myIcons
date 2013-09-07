@@ -3,7 +3,9 @@ myIcons
 
 Icons in SVG format for following social websites
 
+* Codeivate
 * Coderbits
+* Facebook
 * GitHub
 * gScholar
 * G+
