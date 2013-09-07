@@ -14,54 +14,14 @@
    id="svg3932"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="Codeivate.svg">
-  <defs
-     id="defs3934" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="329.82178"
-     inkscape:cy="146.00634"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1145"
-     inkscape:window-x="-2"
-     inkscape:window-y="-3"
-     inkscape:window-maximized="1" />
-  <metadata
-     id="metadata3937">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+   sodipodi:docname="Facebook.svg">
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
      transform="translate(0,-552.36218)">
     <path
        d="m 439.32025,552.36227 -378.6407,0 c -33.5121,0 -60.6795,27.1675 -60.6795,60.6796 l 0,378.64052 c 0,33.51221 27.1675,60.67971 60.6795,60.67971 l 378.6407,0 c 33.5122,0 60.6797,-27.1675 60.6797,-60.67971 l 0,-378.64052 c 0,-33.5121 -27.1662,-60.6796 -60.6797,-60.6796 z"
-       id="linkedin-square-rounded-icon-0-4-7-3-5"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sssssssss"
        style="fill:#ffffff;fill-opacity:1;display:inline" />
     <path
        style="fill:#1a1a1a;display:inline"
-       d="m 60.687502,552.36217 c -33.5121,0 -60.687599999862,27.17539 -60.687499999862,60.6875 l 0,378.625 c 0,33.51203 27.175399999862,60.68763 60.687499999862,60.68753 l 206.374998,0 0,-193.62503 -65.15625,0 0,-75.4375 65.15625,0 0,-55.625 c 0,-64.58039 39.4457,-99.78125 97.0625,-99.78125 27.59719,0 51.3036,2.0508 58.21875,2.96875 l 0,67.46875 -39.96875,0.0625 c -31.33304,0 -37.375,14.87162 -37.375,36.71875 l 0,48.1875 74.71875,0 -9.75,75.4375 -64.96875,0 0,193.62503 94.3125,0 c 33.5122,0 60.6874,-27.1755 60.6875,-60.68753 l 0,-378.625 c 0,-33.51211 -27.1742,-60.6875 -60.6875,-60.6875 l -378.624998,0 z"
-       id="linkedin-square-rounded-icon-0-4-3-8-4"
-       inkscape:connector-curvature="0" />
+       d="m 60.687502,552.36217 c -33.5121,0 -60.687599999862,27.17539 -60.687499999862,60.6875 l 0,378.625 c 0,33.51203 27.175399999862,60.68763 60.687499999862,60.68753 l 206.374998,0 0,-193.62503 -65.15625,0 0,-75.4375 65.15625,0 0,-55.625 c 0,-64.58039 39.4457,-99.78125 97.0625,-99.78125 27.59719,0 51.3036,2.0508 58.21875,2.96875 l 0,67.46875 -39.96875,0.0625 c -31.33304,0 -37.375,14.87162 -37.375,36.71875 l 0,48.1875 74.71875,0 -9.75,75.4375 -64.96875,0 0,193.62503 94.3125,0 c 33.5122,0 60.6874,-27.1755 60.6875,-60.68753 l 0,-378.625 c 0,-33.51211 -27.1742,-60.6875 -60.6875,-60.6875 l -378.624998,0 z" />
   </g>
 </svg>
