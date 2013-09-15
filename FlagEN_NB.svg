@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="FlagEN.svg">
+   sodipodi:docname="FlagEN_NB.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -57,8 +57,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.9899495"
-     inkscape:cx="408.89195"
-     inkscape:cy="164.95703"
+     inkscape:cx="166.93983"
+     inkscape:cy="159.4275"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -75,7 +75,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -86,7 +86,7 @@
      transform="translate(0,-552.36218)">
     <path
        inkscape:connector-curvature="0"
-       style="fill:#4d4d4d;display:inline;fill-opacity:1"
+       style="fill:#333333;display:inline;fill-opacity:1"
        d="m 60.687468,552.36217 c -33.5121,0 -60.6875105,27.17539 -60.6875105,60.68752 l 0,378.62511 c 0,33.512 27.1754105,60.6874 60.6875105,60.6874 l 578.625072,0 c 33.5122,0 60.6875,-27.1754 60.6875,-60.6874 l 0,-378.62511 c 0,-33.51213 -27.17409,-60.68751 -60.6875,-60.68751 z"
        id="path3028-2"
        sodipodi:nodetypes="sssssssss" />
@@ -113,8 +113,14 @@
     <path
        inkscape:connector-curvature="0"
        style="fill:url(#linearGradient3019);fill-opacity:1;display:inline"
-       d="m 60.687471,552.36217 c -33.5121,0 -60.68751125625,27.1754 -60.68751125625,60.6875 l 0,378.62513 c 0,33.512 27.17541125625,60.6874 60.68751125625,60.6874 l 578.625069,0 c 33.5122,0 60.6875,-27.1754 60.6875,-60.6874 l 0,-378.62513 c 0,-33.5121 -27.17409,-60.6875 -60.6875,-60.6875 z"
+       d="m 60.687471,552.36217 c -33.5121,0 -60.68751125625,27.1754 -60.68751125625,60.68753 l 0,378.6251 c 0,33.512 27.17541125625,60.6874 60.68751125625,60.6874 l 578.625069,0 c 33.5122,0 60.6875,-27.1754 60.6875,-60.6874 l 0,-378.6251 c 0,-33.51213 -27.17409,-60.68753 -60.6875,-60.68753 z"
        id="path3028-2-9"
        sodipodi:nodetypes="sssssssss" />
+    <path
+       style="fill:#000000;fill-opacity:0.78431373;display:inline"
+       d="m 60.6875,552.36216 c -33.51208,0 -60.687599999862,27.1754 -60.6875,60.6875 l 0,378.62505 c 0,33.51199 27.17542,60.68749 60.6875,60.68749 l 578.625,0 c 33.5122,0 60.6875,-27.1755 60.6875,-60.68749 l 0,-378.62505 c 0,-33.5121 -27.1742,-60.6875 -60.6875,-60.6875 z m 30.28125,40 518.03125,0 c 28.15118,0 51,22.81859 51,50.96875 l 0,318.0313 c 0,28.15009 -22.84975,50.99999 -51,50.99999 l -518.03125,0 C 62.8186,1012.3622 40,989.5123 40,961.36221 l 0,-318.0313 c -8e-5,-28.15016 22.8186,-50.96875 50.96875,-50.96875 z"
+       id="path7-8-6-9-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssssssssssssssssss" />
   </g>
 </svg>
