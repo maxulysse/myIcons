@@ -17,7 +17,11 @@ FLAGFR		= FlagFR.svg
 FLAGEN_NB	= FlagEN_NB.svg
 FLAGFR_NB	= FlagFR_NB.svg
 
-all: svg2png resize
+all: svg2png resize tar
+
+tar:
+	tar -cf icons_100.tar *_100.png
+	tar -cf icons_500.tar *_500.png
 
 svg2png:
 	inkscape ${CODEIVATE}	-e ${CODEIVATE:.svg=_500.png}
@@ -40,7 +44,7 @@ svg2png:
 	inkscape ${FLAGFR_NB}	-e ${FLAGFR_NB:.svg=_500.png}
 
 clean:
-	rm -f *.png
+	rm -f *.png *.tar
 
 resize: svg2png resize100
 
