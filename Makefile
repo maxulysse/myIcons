@@ -10,6 +10,7 @@ MENDELEY		= Mendeley.svg
 RESEARCHGATE	= ResearchGate.svg
 RSS				= RSS.svg
 SHAARLI			= Shaarli.svg
+SLIDESHARE		= SlideShare.svg
 TWITTER			= Twitter.svg
 VIADEO			= Viadeo.svg
 FLAGEN			= FlagEN.svg
@@ -35,6 +36,7 @@ svg2png:
 	inkscape ${RESEARCHGATE}  -e ${RESEARCHGATE:.svg=_100.png}
 	inkscape ${RSS}           -e ${RSS:.svg=_100.png}
 	inkscape ${SHAARLI}       -e ${SHAARLI:.svg=_100.png}
+	inkscape ${SLIDESHARE}    -e ${SLIDESHARE:.svg=_100.png}
 	inkscape ${TWITTER}       -e ${TWITTER:.svg=_100.png}
 	inkscape ${VIADEO}        -e ${VIADEO:.svg=_100.png}
 	inkscape ${FLAGEN}        -e ${FLAGEN:.svg=_100.png}
