@@ -20,12 +20,12 @@ FLAGEN_NB		= FlagEN_NB.svg
 FLAGFR			= FlagFR.svg
 FLAGFR_NB		= FlagFR_NB.svg
 
-all: svg2png tar
+all: png tar
 
 tar:
 	tar -cf icons_100.tar *_100.png
 
-svg2png:
+png:
 	inkscape ${CODEIVATE}    -e ${CODEIVATE:.svg=_100.png}
 	inkscape ${CODERBITS}    -e ${CODERBITS:.svg=_100.png}
 	inkscape ${COMMENTS}     -e ${COMMENTS:.svg=_100.png}
