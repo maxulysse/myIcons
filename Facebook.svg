@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="100"
@@ -27,7 +28,39 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs11" />
+     id="defs11">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5322"
+       id="linearGradient3799"
+       x1="-72.770866"
+       y1="98.260445"
+       x2="-108.53157"
+       y2="74.678169"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(157.25636,-12.92373)" />
+    <linearGradient
+       id="linearGradient5322">
+      <stop
+         style="stop-color:#000000;stop-opacity:0.37391305;"
+         offset="0"
+         id="stop5324" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop5326" />
+    </linearGradient>
+    <linearGradient
+       y2="74.678169"
+       x2="-108.53157"
+       y1="98.260445"
+       x1="-72.770866"
+       gradientTransform="translate(157.25636,-12.923727)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3833"
+       xlink:href="#linearGradient5322"
+       inkscape:collect="always" />
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -41,9 +74,9 @@
      inkscape:window-height="1145"
      id="namedview9"
      showgrid="false"
-     inkscape:zoom="0.944"
-     inkscape:cx="101.91847"
-     inkscape:cy="203.28703"
+     inkscape:zoom="5.3400704"
+     inkscape:cx="55.4817"
+     inkscape:cy="23.326445"
      inkscape:window-x="-2"
      inkscape:window-y="-3"
      inkscape:window-maximized="1"
@@ -65,4 +98,10 @@
      id="path5"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ssccccccccccscccs" />
+  <path
+     style="fill:url(#linearGradient3833);fill-opacity:1;display:inline"
+     d="M 12.1375,2.2999448e-6 C 5.43509,2.2999448e-6 -1.9999945e-5,5.435082 0,12.137502 L 0,87.862503 C 0,94.564903 5.43509,100.00002 12.1375,100 l 75.725004,0 C 94.564944,100 99.999984,94.564903 100,87.862503 l 0,-75.725001 C 100,5.435082 94.565164,2.2999448e-6 87.862504,2.2999448e-6 z"
+     id="path7-8-6-9-9"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sssssssss" />
 </svg>

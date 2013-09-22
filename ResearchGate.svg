@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="100"
@@ -27,7 +28,39 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs11" />
+     id="defs11">
+    <linearGradient
+       y2="796.64795"
+       x2="334.28577"
+       y1="1009.505"
+       x1="644.28564"
+       gradientTransform="matrix(0.14285713,0,0,0.19999998,0,-110.4725)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3058"
+       xlink:href="#linearGradient5322-1"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient5322-1">
+      <stop
+         style="stop-color:#000000;stop-opacity:0.37391305;"
+         offset="0"
+         id="stop5324-6" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop5326-3" />
+    </linearGradient>
+    <linearGradient
+       y2="796.64795"
+       x2="334.28577"
+       y1="1009.505"
+       x1="644.28564"
+       gradientTransform="matrix(0.14285713,0,0,0.19999998,0,-110.4725)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3033"
+       xlink:href="#linearGradient5322-1"
+       inkscape:collect="always" />
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -42,7 +75,7 @@
      id="namedview9"
      showgrid="false"
      inkscape:zoom="0.944"
-     inkscape:cx="157.02057"
+     inkscape:cx="30.961248"
      inkscape:cy="170.53227"
      inkscape:window-x="-2"
      inkscape:window-y="-3"
@@ -72,4 +105,10 @@
      d="M 12.1375,0 C 5.435084,0 -2.0000165e-5,5.43508 0,12.1375 l 0,75.725 C 0,94.56491 5.435084,100.00002 12.1375,100 l 75.724999,0 C 94.564939,100 99.99998,94.56491 100,87.8625 l 0,-75.725 C 100,5.43508 94.565161,0 87.862499,0 L 12.1375,0 z M 18.19375,8 81.8,8 C 87.430236,8 92,12.56372 92,18.19375 L 92,81.8 C 91.999984,87.43002 87.43005,92 81.8,92 L 18.19375,92 C 12.56372,92.00002 8,87.43002 8,81.8 L 8,18.19375 C 7.999984,12.56372 12.56372,8 18.19375,8 z"
      id="path7-8-6-9"
      inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:url(#linearGradient3033);fill-opacity:1;display:inline"
+     d="M 8.66964,0 C 3.8822,0 0,5.435 0,12.1375 l 0,75.725 C 0,94.5649 3.8822,100 8.66964,100 l 82.66072,0 C 96.11781,100 100,94.5649 100,87.8625 l 0,-75.725 C 100,5.435 96.11798,0 91.33036,0 z"
+     id="path3028-2-9-8"
+     sodipodi:nodetypes="sssssssss" />
 </svg>
