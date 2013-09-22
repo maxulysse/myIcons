@@ -2,6 +2,7 @@ CODEIVATE		= Codeivate.svg
 CODERBITS		= Coderbits.svg
 COMMENTS		= Comments.svg
 FACEBOOK		= Facebook.svg
+FLATTR			= Flattr.svg
 GITHUB			= GitHub.svg
 GPLUS			= gPlus.svg
 GSCHOLAR		= gScholar.svg
@@ -29,6 +30,7 @@ svg2png:
 	inkscape ${CODERBITS}    -e ${CODERBITS:.svg=_100.png}
 	inkscape ${COMMENTS}     -e ${COMMENTS:.svg=_100.png}
 	inkscape ${FACEBOOK}     -e ${FACEBOOK:.svg=_100.png}
+	inkscape ${FLATTR}       -e ${FLATTR:.svg=_100.png}
 	inkscape ${GITHUB}       -e ${GITHUB:.svg=_100.png}
 	inkscape ${GPLUS}        -e ${GPLUS:.svg=_100.png}
 	inkscape ${GSCHOLAR}     -e ${GSCHOLAR:.svg=_100.png}
