@@ -1,21 +1,34 @@
 myIcons
 =======
 
-Minimalist icons in SVG format for following social websites
+Minimalist icons in SVG format with round corners and border
 
+Websites
+---
 * Codeivate
 * Coderbits
 * Facebook
+* Flattr
 * GitHub
+* gPlus
 * gScholar
-* G+
 * LinkedIn
 * Mendeley
 * ResearchGate
+* SlideShare
 * Twitter
+* Ulule
 * Viadeo
 
-Plus for special features :
+Special features
+---
 * Comments
-* Shaarli
 * RSS
+* Shaarli
+
+Flags
+---
+* FlagEN_NB
+* FlagEN
+* FlagFR_NB
+* FlagFR
