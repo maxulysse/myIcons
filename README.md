@@ -8,13 +8,17 @@ Websites
 * Codeivate
 * Coderbits
 * Facebook
+* FigShare
 * Flattr
 * GitHub
 * gPlus
 * gScholar
+* Launchpad
 * LinkedIn
 * Mendeley
+* Reddit
 * ResearchGate
+* OrcID
 * SlideShare
 * Twitter
 * Ulule
@@ -23,6 +27,7 @@ Websites
 Special features
 ---
 * Comments
+* PDF
 * RSS
 * Shaarli
 
