@@ -20,6 +20,7 @@ Websites
 * ResearchGate
 * OrcID
 * SlideShare
+* Soundcloud
 * Twitter
 * Ulule
 * Viadeo
