@@ -1,12 +1,13 @@
-PNGS	= $(shell  find -type f -iname "*.svg" | sed 's/.svg/_100.png/g')
-SVG2PNG	= inkscape $< -e $@
+PNGS	= $(shell  find -type f -iname "*.svg" | sed 's/.svg/_${HEIGHT}.png/g')
+SVG2PNG	= inkscape $< -e $@ -h ${HEIGHT}
+HEIGHT	= 100
 
 all: ${PNGS} tar
 
 tar:
-	tar -cf icons_100.tar *_100.png
+	tar -cf icons_${HEIGHT}.tar *_${HEIGHT}.png
 
-%_100.png: %.svg
+%_${HEIGHT}.png: %.svg
 	$(SVG2PNG)
 
 clean:
