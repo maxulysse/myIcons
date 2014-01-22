@@ -5,7 +5,7 @@ Minimalist icons in SVG format with round corners and border
 
 Usage
 ---
-make HEIGHT=xx  
+<code>make HEIGHT=xx</code>  
 xx being the wanted height in pixel  
 
 Websites
