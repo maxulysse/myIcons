@@ -1,4 +1,4 @@
-PNGS	= $(shell  find -type f -iname "*.svg" | sed 's/.svg/_${HEIGHT}.png/g')
+PNGS	= $(shell find -type f -iname "*.svg" | sed 's/.svg/_${HEIGHT}.png/g')
 SVG2PNG	= inkscape $< -e $@ -h ${HEIGHT}
 HEIGHT	= 100
 
