@@ -15,6 +15,7 @@ Websites
 * Coderbits
 * Facebook
 * FigShare
+* FitBit
 * Flattr
 * GitHub
 * gPlus
