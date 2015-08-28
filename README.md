@@ -20,25 +20,30 @@ Websites
 * GitHub
 * gPlus
 * gScholar
+* Instagram
+* KissKissBankBank
 * Launchpad
 * LinkedIn
 * Mendeley
+* OrcID
 * Reddit
 * ResearchGate
-* OrcID
 * SlideShare
-* SourceForge
 * Soundcloud
+* SourceForge
+* Steam
 * Twitter
 * Ulule
 * Viadeo
 
 Special features
 ---
+* CCbySA
 * Comments
 * PDF
 * RSS
 * Shaarli
+* ShaarliRSS
 
 Flags
 ---
