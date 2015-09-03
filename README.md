@@ -11,6 +11,7 @@ If no height specified, the icons will be made with a heigh of 100px
 
 Websites
 ---
+* 9gag
 * Codeivate
 * Coderbits
 * Facebook
@@ -20,6 +21,7 @@ Websites
 * GitHub
 * gPlus
 * gScholar
+* Imgur
 * Instagram
 * KissKissBankBank
 * Launchpad
