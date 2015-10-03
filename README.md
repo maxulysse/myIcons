@@ -27,6 +27,7 @@ Websites
 * Launchpad
 * LinkedIn
 * Mendeley
+* MyDocPro
 * OrcID
 * Reddit
 * ResearchGate
